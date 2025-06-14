@@ -11,6 +11,11 @@ A Python script that implements the Sieve of Eratosthenes for fast prime number 
   ```
 
 ## Usage
+``python eratosthenes-sieve.py <command>``
+
+### Available commands
+``help``                 - Displays this help message.  
+``<positive_integer>``    - The upper bound upto which prime numbers are generated.
 
 ## Author
 **Lethios**
