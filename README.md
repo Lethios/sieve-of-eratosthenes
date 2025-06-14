@@ -9,9 +9,6 @@ A Python script that implements the Sieve of Eratosthenes for fast prime number 
   git clone https://github.com/Lethios/sieve-of-eratosthenes.git
   cd sieve-of-eratosthenes
   ```
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 
